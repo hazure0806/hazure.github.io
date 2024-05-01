@@ -1,3 +1,8 @@
+---
+layout: page
+title: "I.Tの職務経歴書"
+---
+
 # 職務経歴書
 
 ## 意欲・興味
@@ -43,6 +48,7 @@
 #### AWS
 
 - AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
 
 ### SaaS/PaaS
 
